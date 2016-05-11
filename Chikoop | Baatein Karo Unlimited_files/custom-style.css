@@ -1,0 +1,91 @@
+input.error {
+    /* border: 1px solid red !important; */
+}
+
+label.error {
+    color: #FF0000;
+    margin-top: 5px;
+width: 100% !important;
+margin-left: 3%;
+}
+
+/* select.error {
+    border: 1px solid red !important;
+} */
+
+.content-sec ul li{
+	padding:20px;
+	color:#0079ce;
+}
+
+.content-sec ul li.active{
+	color: #FF8B20;
+}
+
+/* For log in popup start */
+
+.login_modal_footer{margin-top:5px;}
+.login_modal_header .modal-title {text-align: center; /*font-family:'Philosopher',sans-serif;*/ color:#fff; font-weight:normal; }
+.form-group{position: relative;}
+.form-group .login-field-icon {
+    font-size: 20px;
+    position: absolute;
+    right: 15px;
+    top: 3px;
+    transition: all 0.25s ease 0s;
+    padding-top: 2%;
+}
+.login-modal{
+    width:100%;
+    padding-bottom:20px;
+}
+.login_modal_header, .login_modal_footer {background: #ff7401 !important;color:#fff;}
+.modal-register-btn{margin: 6% 29% 0% 29% ; width:100%; display:inline-block;}
+.user_btn{ text-shadow:0 0 0 rgba(0,0,0,0) !important; font-weight:normal !important; }
+.login-modal input{
+height: 40px;
+box-shadow: none;
+border: 1px solid #ddd;
+border-radius: 0;
+background-color: #fff;
+width: 100% !important;
+}
+.modal-body-left{
+	border-right: 1px solid #ddd;
+    float: left;
+    padding-right: 4%;
+    width: 53%;
+}
+.modal-body-right{float:right; width:47%;}
+.login-link{padding:0 20%;}
+.modal-social-icons{padding:0 10%;}
+.facebook, .twitter, .google, .linkedin {width:100%;height:40px; padding-top:2%; margin-top:2%;}
+.modal-icons{ margin-left: 0; margin-right: 10px; float: left; vertical-align: middle; margin-top: 7px; }
+.google, .google:hover{background-color:#dd4b39;border:2px solid #dd4b39;color:#fff;}
+.twitter, .twitter:hover{ background-color: #00aced; border:2px solid #00aced;color: #fff;}
+.facebook, .facebook:hover{background-color: #3b5999; border:2px solid #3b5999;color:#fff;}
+.linkedin, .linkedin:hover{background-color: #007bb6; border: 2px solid #007bb6; color:#fff;}
+#social-icons-conatainer{position: relative;}
+#center-line{
+	background: #ddd none repeat scroll 0 0;
+    /*border: 2px solid #dddddd;*/
+    border-radius: 20px;
+    position: absolute;
+    right: 44.6%;
+    top: 80px;
+    font-size: 11px;
+    padding: 5px;
+}
+/*.modal-login-btn{width:100%;height:40px; margin-bottom:10px;}*/
+.modal-login-btn{
+	height: 35px;
+    width: 100%;
+    background: transparent;
+    border: 1px solid rgba(255,255,255,0.4)!important;
+    color: #fff;
+	border-radius:0;
+}
+/*#modal-launcher{margin: 30% 0 0 30%; } */
+h1{border-bottom:5px solid #00BB64;}
+
+/* For log in popup end */

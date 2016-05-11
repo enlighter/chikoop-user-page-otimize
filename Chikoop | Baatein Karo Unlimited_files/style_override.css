@@ -1,0 +1,173 @@
+#nav a{
+	background: #cccccc none repeat scroll 0 0;
+    color: #ccc;
+    font-size: 3px;
+   padding:0px 30px;
+   margin:0px 5px 0px 0px;
+    
+      
+}
+#nav a.activeSlide{background:#FF8D23;}
+.landing-form-widget .form-wrapper label {
+    cursor: pointer;
+    color: #FFF;
+}
+.breadcrumb > li + li::before {
+    padding: 0px 5px;
+    color: #CCC;
+    content: none !important;
+}
+.breadcrumb {
+    padding: 0px 0px !important;
+}
+.modal-dialog {
+    width: 49% ;
+}
+.modal-login-btn {
+    height: 35px;
+    width: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.4) !important;
+    color: #000 !important;
+    border-radius: 0px;
+    background: #E0E0E0 none repeat scroll 0% 0% !important;
+}
+.cd-nav-item
+{
+
+-webkit-transition: all 0.5s ease; transition: all 0.5s ease;
+}
+.cd-nav-item:hover
+{
+
+-webkit-transform:scale(1); transform:scale(1.1);
+-webkit-transition: all 0.5s ease; transition: all 0.5s ease;
+}
+.landing-form-widget
+{
+	display:none;
+}
+.landing-form-widget.current{
+			display: block;
+		}
+		ul.tabs{
+			float:left;
+			padding-left: 0px;
+			margin-top:6px;
+			list-style: none;
+			margin-bottom: -1px;
+		}
+		ul.tabs li{
+			color: #222;
+			display: inline-block;
+			padding:5px 17px;
+			cursor: pointer;
+			font-size:12px;
+			
+			
+		}
+
+		ul.tabs li.current{
+			background: none;
+			color: #fff;
+			position:relative;
+			
+		}
+.row {
+
+    margin: 0 !important;
+}
+.col-md-12 {
+    width: 100%;
+    float: left !important;
+    padding: 0px !important;
+}
+.footer_up {
+
+    margin-left: 0% !important;
+}
+.chikoop_recharge_box_title
+{
+	height:auto;
+	width:100%;
+	float:left;
+	font-size:18px;
+	margin-bottom:1%;
+}
+.landing-form-widget .steps
+{
+top:0px !important;
+}
+.show-plans .or
+{
+margin: 0px 0px !important;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 540px) , screen and (min-width: 320px) and (max-width: 540px) 
+{
+.top_banner_text1 {
+   
+    margin-top: 0;
+}
+.top_banner_text2 {
+    margin-top: -17%;
+
+}
+.recharge_it {
+    width: 100% !important;
+    margin: 5% auto auto -50% !important;
+    top: 2% !important;
+	padding:0 2%;
+}
+.recharge_icon {
+    display: none;
+}
+.recharge_next {
+    height: 165px;
+    width: 100%;
+    padding-left: 4%;
+}
+.top_banner_text3 > a {
+
+    margin: 0% auto auto -17%;
+    top: 1.5%;
+}
+.video_overlay {
+    height: auto !important;
+}
+.what_is_chikoop_head {
+    width: 100%;
+    padding-left: 0;
+}
+.what_is_chikoop_body {
+    width: 100%;
+    padding-left: 0;
+}
+.baatein_karo_head {
+    width: 100%;
+}
+.baatein_karo_body {
+    width: 100%;
+}
+
+.why_chikoop_head {
+    width: 100%;
+    padding-left: 0px;
+}
+.why_chikoop_body {
+    width: 100%;
+    padding-left: 0px;
+}
+.why_chikoop {
+    padding: 5% 6%;
+    background-attachment: scroll !important;
+}
+.offers_body {
+    width: 100%;
+}
+.offers_bg p {
+
+    width: 100%;
+}
+.offers_head {
+    background-size: inherit;
+}
+}

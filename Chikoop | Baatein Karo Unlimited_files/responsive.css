@@ -1,0 +1,149 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 385px) , screen and (min-width: 320px) and (max-width: 385px) 
+{
+@media only screen and (max-device-width: 540px) , screen and (max-width: 540px)
+{
+.top_banner_text1 {
+   top: 1%;
+font-size: 14px;
+}
+.top_banner_text2 {
+    top: 2%;
+font-size: 16px;
+}
+.recharge_it {
+    width: 80%;
+    margin: 5% auto auto -39%;
+   top: 4%;
+}
+.ms-videogallery-template {
+    max-width: 100% !important;
+	width: 100% !important;
+    margin: 0px 0px 0px 0px !important;
+}
+.thum_vedio {
+    height: auto;
+}
+.chikoop_3_boxes {
+    height: auto;
+    padding: 10% 10% 10% 10%;
+}
+.carriers {
+    height: auto;
+}
+.bx-viewport
+{
+	height:236px !important;
+}
+.bxslider_text_area_text {
+    line-height: 24px;
+    font-size: 14px;
+}
+.what_is_chikoop {
+    padding: 5% 6%;
+	background-attachment: fixed;
+}
+.why_chikoop {
+    padding: 5% 6%;
+	background-attachment: fixed;
+}
+.carousal_area_head {
+    margin-bottom: 3%;
+}
+.carousal {
+    width: 100%;
+}
+.footer_up_box {
+    width: 45%;
+	margin-left: 5%;
+}
+.logo {
+margin-left: 0px;
+margin: 0% 0px 0% 0%;
+}
+.cd-logo {
+    position: absolute;
+    left: 5%;
+    top: 3px;
+}
+.top_video {
+    width: 100%;
+    float: left;
+    height: 500px;
+    background: transparent url("https://chikoop.com/resource/images/home/banner.jpeg") no-repeat scroll 0% 0% / cover;
+}
+video#bgvid {
+    min-width: 100%;
+    min-height: 0%;
+    height: auto;
+    background:rgba(255, 163, 59, 0) none repeat scroll 0% 0% ;
+    width: 100%;
+    float: left;
+	display:none;
+}
+.networks ul li img {
+    width: 50px;
+    height: 50px;
+}
+.quotes {
+    padding-bottom: 7%;
+}
+.line1 {
+    font-size: 18px;
+}
+.second {
+    font-size: 25px;
+}
+.policies {
+    text-align: left;
+    margin-left: 0%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.verified
+{
+	margin-top:3%;
+	margin-bottom:3%;
+}
+.socials
+{
+	margin-bottom:3%;
+}
+#fub1
+{
+	width:100% !important;
+	margin-left:3% !important;
+}
+.fub1_p
+{
+	display:block;
+}
+.fub1_a
+{
+	height: auto; width: 80px; float: left; text-align: center; margin-left:2%;
+}
+.fbi_tt
+{
+	display:none;
+}
+
+.footer_up_box_icon {
+    opacity: 0.7;
+    transition-duration: 0.5s;
+    margin-left: 0%;
+    float: none;
+    margin-top: 0%;
+}
+.modal-dialog {
+    width: 100% !important;
+}
+.modal-body-left {
+    border-right: 0px solid #DDD;
+    float: left;
+    padding-right: 0%;
+    width: 100%;
+}
+.modal-body-right {
+    width: 100%;
+}
+}
+}
