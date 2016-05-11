@@ -4379,9 +4379,18 @@ text-align: center;
 	border-radius:50px;
 	object-fit:cover;
 }
+.express_word_count
+{
+	float:right;
+	text-align:right;
+	color:#999;
+	width: 100%;
+	margin-right: 3%;
+}
 .express_description
 {
-	width:100%;
+	width:96%;
+	margin-left: 3%;
 	float:left;
 	height:auto;
 	padding:2% 0;
@@ -4417,7 +4426,7 @@ border-left: 3px solid #999;
 	text-align:center;
 	float:right;
 	color: #fff;
-border-radius: 2px;
+	border-radius: 3px;
 }
 .express_with {
     padding: 1% 1%;
@@ -4425,7 +4434,7 @@ border-radius: 2px;
   border: 1px solid #d9d9d9;
     float: right;
     color: #333;
-    border-radius: 2px;
+    border-radius: 3px;
     width: 24%;
     text-align: left;
     font-size: 10px;
@@ -4433,7 +4442,7 @@ border-radius: 2px;
 }
 .express_with > option
 {
-	padding:1%;
+	padding: 1%;
 }
 .express_upload_img
 {
