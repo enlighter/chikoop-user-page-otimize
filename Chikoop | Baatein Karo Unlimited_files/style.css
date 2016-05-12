@@ -4665,11 +4665,12 @@ padding: 2% 5%;
 .follow_suggestion_follow
 {
 	float: left;
-font-size: 12px;
-color: #000;
-padding: 2% 8%;
-background: #E0E0E0;
-margin-top: 1%;
+	font-size: 12px;
+	color: #000;
+	padding: 2% 8%;
+	background: #E0E0E0;
+	margin-top: 1%;
+	border-radius: 3px;
 }
 .close_div {
 
