@@ -4269,7 +4269,6 @@ float: left;
 	float:left;
 	padding: 4% 0;
 	border-top:1px solid #ccc;
-	border-bottom:1px solid #ccc;
 	height:auto;
 }
 .my_app > li > img
@@ -4293,9 +4292,7 @@ float: left;
 	float:left;
 	padding: 4% 0;
 	border-top:1px solid #ccc;
-	border-bottom:1px solid #ccc;
 	height:auto;
-
 }
 .my_popular > li > img
 {
@@ -4626,8 +4623,8 @@ margin-bottom: 3%;
 	width:100%;
 	float:left;
 	height:auto;
-	height: 170px;
-overflow: hidden;
+	height: 251px;
+	overflow: hidden;
 }
 .follow_suggestion > li
 {
@@ -4635,14 +4632,14 @@ overflow: hidden;
 	float:left;
 	height:auto;
 	padding: 4% 0;
-border-top: 1px solid #efefef;
+	border-top: 1px solid #ccc;
 }
 .follow_suggestion > li > img
 {
-	width:67px;
+	width:60px;
 	float:left;
-	height:67px;
-	border-radius:67px;
+	height:60px;
+	border-radius:18%;
 }
 .follow_suggestion_details
 {
