@@ -4384,12 +4384,12 @@ text-align: center;
 	float:right;
 	text-align:right;
 	color:#999;
-	width: 100%;
+	width: 96%;
 	margin-right: 3%;
 }
 .express_description
 {
-	width:96%;
+	width:94%;
 	margin-left: 3%;
 	float:left;
 	height:auto;
@@ -4516,6 +4516,7 @@ border-left: 3px solid #999;
 	float:left;
 	object-fit:cover;
 	margin-bottom:3%;
+	border-radius: 4px;
 }
 .feed_title
 {
@@ -4524,6 +4525,7 @@ border-left: 3px solid #999;
 	font-size:16px;
 	color:#000;
 	margin-bottom:3%;
+	margin-left: 1%;
 	float:left;
 	font-family: 'Oswald', sans-serif !important;
 }
@@ -4534,8 +4536,8 @@ border-left: 3px solid #999;
 	font-size:12px;
 	color:#666;
 	margin-bottom:3%;
+	margin-left: 1%;
 	float:left;
-
 }
 .feed_tags
 {
